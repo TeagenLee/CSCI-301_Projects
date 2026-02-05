@@ -1,0 +1,29 @@
+Script started on 2025-10-03 21:52:44+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="159" LINES="15"]
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ g++ spelling[K[K[K[K[K[K[K[Ksp[K[K./[K\[K/spellCheck.txt 
+.git/                DoublyLinkedBag.cpp  Node.cpp             README.md            dictionary.txt       spellCheck.txt       
+BagInterface.h       DoublyLinkedBag.h    Node.h               Spelling.cpp         script.txt           
+[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ g++ ./spellCheck.txt 
+.git/                DoublyLinkedBag.cpp  Node.cpp             README.md            dictionary.txt       spellCheck.txt       
+BagInterface.h       DoublyLinkedBag.h    Node.h               Spelling.cpp         script.txt           
+[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ g++ ./spellCheck.txt [C[1P [1P [1P [1P [1P [1P [1P [1P [1P [1P [1P [1P [1P [1P S p e l l i n g . c p p 
+[?2004l[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ aa[K.out
+[?2004lbash: a.out: command not found
+[?2004h[0;32m@TeagenLee [1;31m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./aou[K[Kx[K[Ka.out
+[?2004lEnter the filename of the file to spell-check: 
+spellcheck     Check.txt
+
+The following words in the file spellCheck.txt are not spelled correctly:
+Quiilt
+viulin
+cadle
+horizonn
+
+Thanks for using the spell checker system.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter the filename of the file to spell-check: 
+noFile.exe
+Error: Could not open file noFile.exe
+[?2004h[0;32m@TeagenLee [1;31m➜ [1;34m/workspaces/project3-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ [?2004l
+exit
+
+Script done on 2025-10-03 21:55:41+00:00 [COMMAND_EXIT_CODE="1"]
