@@ -1,0 +1,86 @@
+Script started on 2025-11-18 02:43:11+00:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="101" LINES="11"]
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ g++ test_FrontListAsA.cpp 
+[?2004l[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ a.out
+[?2004lbash: a.out: command not found
+[?2004h[0;32m@TeagenLee [1;31m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lTesting FrontListAsA (private inheritance)
+Length: 3
+Front: gamma
+After remove, front: beta
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListAsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lTesting FrontListAsA (private inheritance)
+Length: 3
+Front: gamma
+After remove, front: beta
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListAsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lTesting FrontListAsA (private inheritance)
+Length: 3
+Front: gamma
+After remove, front: beta
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListAsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lTesting FrontListAsA (private inheritance)
+Length: 3
+Front: gamma
+After remove, front: beta
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListAsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ g++ test_FrontListHasA.cpp -o b.out
+[?2004l[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ b[K./b.out
+[?2004lTesting FrontListHasA
+Length: 3
+Front element: again first
+After remove, front: new first
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListHasA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./b.out
+[?2004lTesting FrontListHasA
+Length: 3
+Front element: again first
+After remove, front: new first
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListHasA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./b.out
+[?2004lTesting FrontListHasA
+Length: 3
+Front element: again first
+After remove, front: new first
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListHasA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ g++ test_FrontListi[KIsA.cpp -o c.e[Kout
+[?2004l[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ c[K./c.out
+[?2004lTesting FrontListIsA (public inheritance)
+Length (via inherited getLength): 3
+Front: three
+After remove, front: two
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListIsA.
+Attempt insert(pos, item) (should be disabled => 0): 0
+replace(...) threw as expected: Precondition Violated Exception: replace(pos, ...) is disabled for FrontListIsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./c.out
+[?2004lTesting FrontListIsA (public inheritance)
+Length (via inherited getLength): 3
+Front: three
+After remove, front: two
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListIsA.
+Attempt insert(pos, item) (should be disabled => 0): 0
+replace(...) threw as expected: Precondition Violated Exception: replace(pos, ...) is disabled for FrontListIsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ ./c.out
+[?2004lTesting FrontListIsA (public inheritance)
+Length (via inherited getLength): 3
+Front: three
+After remove, front: two
+After clear, isEmpty: 1
+Precondition Violated Exception: retrieve() called on an empty FrontListIsA.
+Attempt insert(pos, item) (should be disabled => 0): 0
+replace(...) threw as expected: Precondition Violated Exception: replace(pos, ...) is disabled for FrontListIsA.
+[?2004h[0;32m@TeagenLee [0m➜ [1;34m/workspaces/project7-TeagenLee [0;36m([1;31mmain[0;36m) [0m$ [?2004l
+exit
+
+Script done on 2025-11-18 02:44:53+00:00 [COMMAND_EXIT_CODE="0"]
